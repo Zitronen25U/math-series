@@ -13,3 +13,11 @@ def lucas(n):
     return 1
   else:
     return lucas(n -1) + lucas(n-2)
+
+
+def sum_series(n):
+  if n == 2 or n == 1
+    return lucas(n-1) + lucas(n-2)
+  else:
+    return fibonacci(n-1) + fibonacci(n-2)
+
